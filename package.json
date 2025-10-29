@@ -1,7 +1,6 @@
 {
   "name": "revdevhq-va-tracker",
   "version": "1.0.0",
-  "description": "VA Task Tracker with Calendar for RevDevHQ",
   "type": "module",
   "scripts": {
     "dev": "vite",
